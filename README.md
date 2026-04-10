@@ -17,10 +17,7 @@ I am a Full Stack MERN Developer and B.Tech (Batch '27) student at OIST Bhopal, 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7566&layout=compact&theme=dark)
-
 ---
 
-![](https://komarev.com/ghpvc/?username=vaibhav7566&label=Profile%20views&color=0e75b6&style=flat)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
