@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am a Full Stack MERN Developer and B.Tech (Batch '27) student at OIST Bhopal, passionate about building scalable, real-world web applications with clean architecture and efficient performance. I work primarily with React.js, Node.js, Express.js, MongoDB, Next.js, and TypeScript, focusing on developing responsive user interfaces and designing robust backend systems. Currently, I am working as a MERN Stack Developer Intern at Sheryians Coding School, contributing to a real-world hiring platform by developing new features, improving existing functionalities, and ensuring application reliability through testing and debugging. I have built projects like an Uber Clone with real-time ride tracking using Socket.io and Mapbox APIs, implementing geocoding, reverse geocoding, and location-based services, with a strong focus on modular backend architecture and scalable API design. I am actively strengthening my problem-solving skills through Data Structures and Algorithms (Java) and advancing my knowledge in React and backend system design. I enjoy solving complex problems, writing clean and maintainable code, and building applications that deliver real value to users. I am currently open to internships, collaborations, and opportunities to grow as a Software Engineer.
+#  About Me
+
+I'm a **Full-Stack MERN Developer** and **B.Tech (Batch '27)** student at **OIST, Bhopal**, passionate about building scalable, user-centric web applications.
+
+Currently, I'm a **Software Engineer Intern at Sansys Informatics**, where I contribute to the development of an enterprise-grade **Electronic Health Record (EHR)** system by building responsive UIs, secure backend APIs, and scalable application features.
+
+Previously, I worked as a **MERN Stack Developer Intern at Sheryians Coding School**, contributing to a real-world hiring platform by developing new features, improving existing functionality, and fixing bugs.
+
+My core tech stack includes **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TypeScript, JavaScript, and Redux Toolkit**. I also enjoy solving **Data Structures & Algorithms (Java)** problems and building clean, maintainable, and high-performance software.
+
+I'm always eager to learn, collaborate, and build impactful products while growing as a **Software Engineer**.
 
 
 ## 🌐 Socials:
